@@ -1,0 +1,31 @@
+body{
+	background: url(../img/img2.jpg);
+	color: black;
+	font-family: initial;
+}
+.row{
+	margin-top: 50px;
+}
+a{
+	margin: 8px;
+}
+img{
+	border-radius: 50%;
+
+}
+#diseño{
+	font-size: 15px;
+	font-family: cursive;
+}
+#collapseOne{
+	font-family: unse;
+}
+#collapseTwo{
+	font-family: monospace;
+}
+#collapseThree{
+	font-family: initial;
+}
+.well{
+	background: white;
+}
